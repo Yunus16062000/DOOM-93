@@ -1,0 +1,6 @@
+{
+  "name": "Doom 93",
+  "description": "1993 klasiğinden ilham alan 2.5D raycasting FPS oyunu: Episode 1 - Mars Cehennemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
